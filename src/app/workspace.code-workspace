@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Java\\eclipse\\workspace\\RGb"
+		},
+		{
+			"path": "..\\..\\..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web"
+	}
+}
